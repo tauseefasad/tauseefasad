@@ -1,14 +1,14 @@
-Hi there, I’m @tauseefasad.
-I am a full-time computer science student seeking to grow my expertise and passion in data science.
+I'm a Computer Science student at Toronto Metropolitan University, specializing in Software Engineering. 
 
-How to reach me:
+With experience in IT auditing and business analysis, I’m passionate about leveraging technology to solve complex problems.
 
-Social: 
-- linkedin.com/in/tauseefasad/
+👨‍💻 Code Enthusiast | Data Whisperer | Problem Solver
+📊 Bringing data to life through Power BI and Azure Databricks for actionable insights.
+⚙️ Engineering smarter systems and optimizing processes to drive efficiency and impact.
+
+Let’s connect!
 
 
-Email:
-- tauseef.asad@torontomu.ca
 
 
 <!---
