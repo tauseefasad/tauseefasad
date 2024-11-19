@@ -1,4 +1,4 @@
-I'm a Computer Science student at Toronto Metropolitan University, specializing in Software Engineering. 
+I'm a Computer Science student at Toronto Metropolitan University, specializing in Software Engineering and minoring in Finance 
 
 With experience in IT auditing and business analysis, I’m passionate about leveraging technology to solve complex problems.
 
